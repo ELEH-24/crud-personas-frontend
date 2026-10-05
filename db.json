@@ -1,0 +1,16 @@
+{
+  "personas": [
+    {
+      "tipoDocumento": "CC",
+      "numeroDocumento": "wer",
+      "nombres": "asf",
+      "apellidos": "sdf",
+      "direccion": "sdf",
+      "ciudad": "bogota",
+      "fechaNacimiento": "2026-09-15",
+      "correo": "sdfs@sfsd",
+      "id": "V78a-VgawG8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
